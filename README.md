@@ -1,6 +1,6 @@
-# Hi, I’m Janney 👋
+# Hi, I’m Janney 💃
 
-# About Me
+🌹  About Me
 
 I’m a student exploring the world of technology, learning how to build meaningful projects, and growing my skills in software development.
 
