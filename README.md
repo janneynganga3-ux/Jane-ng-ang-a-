@@ -1,21 +1,69 @@
-# 💫 About Me:
-👋 Hey, I’m [Your Name]<br><br>💻 Learning to code and finding my way into tech<br>🌍 Exploring remote work and new opportunities<br>🇩🇪 Learning German with {"fallbackMarkdown":"Duolingo","reference":{"alt":"Duolingo","category":"mobile_app","extra_params":{"disambiguation":"language learning app"},"name":"Duolingo","prompt_text":"Duolingo","status":"done","type":"entity"},"referenceKey":"0","showLoginRequiredCard":false} — my little learning friend that keeps me accountable 🦉<br>🧠 Curious about mental health, personal growth, and life behind the scenes as a customer care rep<br>🍽️ I love discovering new restaurants and trying something I’ve never ordered before<br>🍹 Mojito is my favourite drink — because life deserves a little refreshment<br><br>I’m on a personal journey of learning, experimenting, making mistakes, and becoming better one day at a time.<br><br>This GitHub is part of that journey — a place to document what I’m learning, what I’m building, and the progress I’m making.<br><br>🔥 My current streak: Code + Deutsch + Growth<br>Show up. Learn something. Repeat.
+# Hi, I’m Janney 👋
 
+# About Me
 
-## 🌐 Socials:
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sonijanney) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tysonnie) 
+I’m a student exploring the world of technology, learning how to build meaningful projects, and growing my skills in software development.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=janneynganga3-ux&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=janneynganga3-ux&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=janneynganga3-ux&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🐍 Learning Python and coding fundamentals
+- 💻 Building small projects to improve problem-solving
+- ☁️ Exploring cloud tools and modern development workflows
+- 🌍 Interested in remote opportunities and tech growth
+- 🇩🇪 Learning German and improving consistency
+- 🧠 Interested in personal growth, customer experience, and practical technology
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> Learn something new every day. Build small things. Grow steadily.
 
 ---
-[![](https://komarev.com/ghpvc/?username=janneynganga3-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Tech Stack🧑‍💻
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Tools & Platforms🖥️💼
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+# Current Focus🧠
+
+- Learning Python fundamentals
+- Practicing Git and GitHub workflows
+- Building beginner-friendly projects
+- Improving coding consistency and discipline
+- Exploring cloud and automation concepts
+
+---
+
+## Projects🔢
+
+### Coming Soon
+I’m currently learning and building small projects to strengthen my portfolio and practical skilla
+
+---
+
+## GitHub Stats
+
+![Janney's GitHub stats](https://github-readme-stats.vercel.app/api?username=janneynganga3-ux&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janneynganga3-ux&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Connect
+
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Sonijanney)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tysonnie)
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=janneynganga3-ux&color=brightgreen)
+
+</div>
